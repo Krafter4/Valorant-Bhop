@@ -1,2 +1,2 @@
-# Valorant-Bhop
-This is an Undetected Bhop Script for Valorant
+# Undetected by Vanguard
+# Made by me
